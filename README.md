@@ -25,5 +25,8 @@ Add to job for the server to work properly
 - 15 min
 `//example.com/guncel-siralama.php`
 
+# UPDATE URL (to get real game updates)
+
+- `https://static-cdn.avaturkey.com/`
 
 
