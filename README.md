@@ -11,6 +11,12 @@ Too many files will be accessible.
 - Php 5.0 PECL (PDO supported)
 - CRON
 
+# CRON SETUP
+
+`//example.com/cron-konfor`
+
+`//example.com/cron-mod`
+
 
 
 
