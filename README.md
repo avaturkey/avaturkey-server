@@ -16,13 +16,13 @@ Too many files will be accessible.
 
 Add to job for the server to work properly
 
-2 min
+- 2 min
 `//example.com/cron-konfor`
-15 sec
+- 15 sec
 `//example.com/cron-mod`
-30 sec
+- 30 sec
 `//example.com/vendor`
-15 min
+- 15 min
 `//example.com/guncel-siralama.php`
 
 
