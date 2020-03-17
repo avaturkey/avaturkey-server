@@ -28,7 +28,17 @@ Add to job for the server to work properly
 # UPDATE URL (to get real game updates)
 You can acsess all pnz files.
 - `https://static-cdn.avaturkey.com/`
- 
+
+## 2 way update your server if you see this error 
+
+  `File "yontem_1_rus.py", line 199, in <module>`
+    `asyncio.run(main())`
+   `AttributeError: module 'asyncio' has no attribute 'run'`
+    
+  - if you see this error update from 2. update file "yontem_2_rus.py" its just for russian servers!
+  
+  `python3 yontem_2_rus.py`
+   
 
 # Python files 
 
