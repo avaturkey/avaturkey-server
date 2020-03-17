@@ -26,8 +26,15 @@ Add to job for the server to work properly
 `//example.com/guncel-siralama.php`
 
 # UPDATE URL (to get real game updates)
-
+You can acsess all pnz files.
 - `https://static-cdn.avaturkey.com/`
-- You can acsess all pnz files.
+ 
+
+# Python files 
+
+- only python files that are up to date will be shared, and old files will remain the same as yours.
+
+
+
 
 
