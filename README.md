@@ -1,5 +1,6 @@
 # avaturkey-server
 
+![alt text](http://avaturkey.com/gt_2.png)
 
 Too many files will be accessible.
 
