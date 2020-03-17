@@ -28,5 +28,6 @@ Add to job for the server to work properly
 # UPDATE URL (to get real game updates)
 
 - `https://static-cdn.avaturkey.com/`
+- You can acsess all pnz files.
 
 
