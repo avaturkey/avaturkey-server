@@ -47,7 +47,7 @@ You can acsess all pnz files.
 # BLOB HASH PNZ 
 
 - Change in php files links and implement your game 'veri' varaible!
-- ADD THİS CODE `<iframe id="lazy_loader_1" style="display:none;" src="http://example.com/vendor"></iframe>`
+- ADD THİS CODE `<iframe  style="display:none;" src="http://example.com/vendor"></iframe>`
 - But you need 2 .htaccess file , 1. public_html , 2. blob folder - i cant uploaded this file but just redirect - .php extensions to output api names. it's not very difficult.
 
 
