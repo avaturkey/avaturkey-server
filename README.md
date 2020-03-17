@@ -30,9 +30,11 @@ You can acsess all pnz files.
 - `https://static-cdn.avaturkey.com/`
 
 ## 2 way update your server if you see this error 
-
+-1
   `File "yontem_1_rus.py", line 199, in <module>`
+  -2
     `asyncio.run(main())`
+    -3
    `AttributeError: module 'asyncio' has no attribute 'run'`
     
   - if you see this error update from 2. update file "yontem_2_rus.py" its just for russian servers!
